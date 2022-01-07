@@ -81,6 +81,8 @@ ___
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 <!-- Tasklists in github Markdown -->
-*[*] Completed Task1
-*[*] Completed Task2
+*[x] Completed Task1
+
+*[x] Completed Task2
+
 *[] Completed Task3
